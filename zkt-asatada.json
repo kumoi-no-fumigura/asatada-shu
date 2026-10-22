@@ -1,0 +1,951 @@
+{
+ "work": "朝忠集",
+ "work_id": "zkt-asatada",
+ "repo": "kumoi-no-fumigura/asatada-shu",
+ "yomi": "あさただしゅう",
+ "category": "私家集",
+ "kind": "kashu",
+ "era": "平安中期",
+ "author": "藤原朝忠",
+ "editions": [
+  {
+   "pid": "873676",
+   "title": "続国歌大観 歌集部 第二冊",
+   "editor": "松下大三郎 編",
+   "series": "続国歌大観",
+   "publisher": "",
+   "year": 1911,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/873676"
+  }
+ ],
+ "status": "未校正（續國歌大觀 第二冊の OCR から 1 首ずつ切り出し。歌番号は未確定）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zkt-asatada-0001",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "道知らぬ物ならなくに足引の山ふみ迷ふ人も有けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0002",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓白〓の雪も絶えにし足引の山路を誰か踏み惑ふべき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0003",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓逢事を松に懸れる白雪も久しき程に消えぞしぬべき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0004",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓川川川ににふる若草の根をし尋ねば底もありなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0005",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "又同じ人に",
+   "author": "",
+   "text": "山城の瓜のつらさは見ゆれ共思心のならざらめやは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0006",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "又大輔に",
+   "author": "",
+   "text": "ハ古は思ひ出でずや渡り河わたるてふ名は流れずや君",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0007",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "流流てて名名にも人をば渡河逢瀬やあると頼みける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0008",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "、滋波る水の下にもいかなれば戀てふいをの絕ず住覧",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0009",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "始めにや",
+   "author": "",
+   "text": "〓油水の云出る〓との難ければ水龍り乍ら年ぞ經にける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0010",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "世の中騷がしき頃",
+   "author": "",
+   "text": "か人の身の老を果にしせましかば今日かあすかと急がまほ:",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0011",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "女返し",
+   "author": "",
+   "text": "心にも適はざりける命もて賴みも置ず常ならぬ身は",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0012",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "物言はで返し",
+   "author": "",
+   "text": "〓徒に立ちかへりにし白波の名殘の袖の干る時もなし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0013",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "ニ何しかは袖の溜る覽白波の名殘有げも見えの景色を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0014",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "殿居ものたがへて大輔の君の局にもて來たるがなえたるに結びつく",
+   "author": "",
+   "text": "故〓の奈良の都の始より別にけるとも見ゆる衣かな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0015",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "ukふりぬとて思も捨じ唐衣よそへてあやな恨もぞする",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0016",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "返し女",
+   "author": "",
+   "text": "白波の立歸るまの濱千鳥跡や絕ぬるしるしなるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0017",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "式部の命婦に通ふ頃つゝむ事あるに",
+   "author": "",
+   "text": "營間には最を詠ぞ增りける天の岩戸に隙やなからむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0018",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "程へて女のわづらひけれど知り給はで消そくやり給へれば",
+   "author": "",
+   "text": "露計思置ヽべき心あらば消えぬ先にぞ人の間はまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0019",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "諸共にいざと云ずばしでの山越ゆ共越さむ物ならなくに",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0020",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓数へやる我魂のいかにして空しき空にもて離るらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0021",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "○七夕の天の戶渡る今日さへや遠方人の難面かるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0022",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "°本院の侍從かねみちの君と寝たるを立ち聞きて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0023",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニ言はでのみ思心を知る人は有や無やと誰かとはまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0024",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "100知る人や空になからむ思ふなる心の內の心ならでは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0025",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "本院ゆげひのかうしのかはにかきて",
+   "author": "",
+   "text": "co薄けれど薄くもあらぬ山吹の八重の色にし思染れば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0026",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "x0重ぬれど薄き衣のやへなれば染むてふ色の數は物かは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0027",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "本院少將しはぶきしたるを聞きて",
+   "author": "",
+   "text": "加下野やしはぶき拂ふ白露のかゝる折にや色變るらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0028",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "かたらふ女の音せざりければ",
+   "author": "",
+   "text": "10今年生の竹の一よも隔つれば覺束なくも成り勝る哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0029",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "○○世世しも有じ物から若竹の生添はりけむ春さへぞ愛き",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0030",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "中將にて空名立つ頃中納言と云ふ人のあだ名立つに",
+   "author": "",
+   "text": "加の共共に君も乾さなむ濡衣かゝる無名は我のみぞ立つ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0031",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "をんなくらひとけんと云ひける東へ下るに",
+   "author": "",
+   "text": "〓別れ路を惜む心の櫻ばな逢坂までは散らであらなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0032",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "醍醐の帝かくれさせ給ひて後好古のさいさうに",
+   "author": "",
+   "text": "一夢かとぞ〓ては思ふ邂逅に訪人あれやまだや覺ぬと",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0033",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "一哀とも思ひぞ分ぬむば玉の同じ夢にて感ふ身なれば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0034",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "うまごに迎へられて歸りなむとて車こへど贈らぬにほかに求めて歸りたるに",
+   "author": "",
+   "text": "天の戶の明るまをだに許れてまだ夜に乘りて歸ぬる哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0035",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "權大納言桃園に通ひそめて四十日と云ふに",
+   "author": "",
+   "text": "1-我妹子が間の上なる菖蒲草根ら頭れて今朝や見ゆ覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0036",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "故內侍の督の御はてに忠房兵衞佐",
+   "author": "",
+   "text": "一事事のみやつかへきとの佗びつる今今の袂ぞ露で、",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0037",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "初見て大將",
+   "author": "",
+   "text": "六一、知れず打拂ひつる朝露に怪しく君が濡れにける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0038",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "しいつとなく濡るゝ袂は古を忍ぶる露となりぬべき哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0039",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "人人知れの野の下草と成れる身も露は同き露ぞ置ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0040",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "倉橋の山のかひより春電年を見つゝやなり渡るらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0041",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "我宿の梅が枝に喘く鶯は風の便りに香をやとめこし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0042",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓花だにも散で別るゝ春ならば今日を割なく惜ざもこし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0043",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "二人傳に知せてしがな隱沼の水籠りにのみ戀や渡らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0044",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓〓事事の絕てしなくば中々に人をも身をも恨ざらまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0045",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "靑柳の糸は影さへあわなれや氷も解けて今は結ばぬ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0046",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "如子日する野邊ならね共我宿の松も千年の蔭にやは非ぬ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0047",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "櫻花を",
+   "author": "",
+   "text": "←心社花に後れて止るらめ駒さへあやな過がてにする",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0048",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "撫子の花の開けたるを人の弄ぶに",
+   "author": "",
+   "text": "初初を見てこそしのべ白露の置きて殘せる撫子の花",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0049",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "女郎花",
+   "author": "",
+   "text": "に仄にも懸て見てしを女郎花野べに勝れる色は有やと",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0050",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "八月十五夜",
+   "author": "",
+   "text": "〓〓秋はは月の心もこゝろみに入る山の端と立隊さなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0051",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "あじろ",
+   "author": "",
+   "text": "ニ紅葉ばの流るゝ水を等ねてぞ山の麓に我はきにける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0052",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "村上の御時の齊宮の下り給ふに長ぶそし長水送使に下りて歸るとて",
+   "author": "",
+   "text": "三萬代の始と今日を祈りおきて今ゆく末は神ぞ數へむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0053",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "權中納言音羽の家にて",
+   "author": "",
+   "text": "吾羽山水はたぎりて流る共君宿らずば勝りしもせじ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0054",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "みちの國のかみに白河にてせん給ふとて",
+   "author": "",
+   "text": "一別るともまた逢坂の關近く知ら知ぬも感はざりけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0055",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "五行歸るものと知る〓〓怪くも別と云へば惜まるヽ哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0056",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "少將にて駒迎に本院の女御の御前を曳かせて御前に參る人々ゐたる所によりて",
+   "author": "",
+   "text": "旭日月の駒引渡す秋の夜は光さやけき夜にこそ有けれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0057",
+   "pid": "873676",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "kotobagaki": "人に",
+   "author": "",
+   "text": "一時時ももれれしし人のつらければ思はゐ山に入ぬべき哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0058",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "女御に",
+   "author": "",
+   "text": "〓富士のねをよそにぞ聞し今は我思に燃る我身なり見",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0059",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "節なき思と聞けば富士のねもかごと計の煙なるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0060",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "別れての名こそ有けれ渡河逢瀨ありやと賴みける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0061",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "十一月右兵衞尉藤製盛からものゝ使にいきたるに別を惜むとて人々歌よみけるに",
+   "author": "",
+   "text": "「別路のいと〓となれば唐錦こひて行べき方ならなくに",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0062",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "朱雀院の帝院にならせ給ひて御佛名のあしたにけづりばなを挿して御遊の折に",
+   "author": "",
+   "text": "5年年に梅は折れ共いかなればけふ折袖の露も變らぬ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0063",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "これは醍醐のせんたいの御時にありけることども年號なんどの無ければ始もはてもえわかず",
+   "author": "",
+   "text": "二一一のの代代云云きの花限もなくぞけふは咲ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0064",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "天曆三年正月子日院におはしましたりけるに",
+   "author": "",
+   "text": "四松を引き若菜を摘て書より千年を祈る今日にぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0065",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "同じ五年內裏の殿上にて",
+   "author": "",
+   "text": "1期斯つつ春春まずば行先の限もなくぞ悲しかるべき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0066",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "六年八月十五夜朱雀院の御門崩れさせ給ひて御四十九日籠り候ひける殿上の人々詠集めけるに",
+   "author": "",
+   "text": "知徒然と經にける年を數ふれば昔遠くもなりにける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0067",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "御四十九日女房のなかにいれける",
+   "author": "",
+   "text": "如しぐれつゝ梢々にうつるとも露に後れし秋な忘れそ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0068",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "重光朝臣の許に女誰とも知らで、朝忠朝臣",
+   "author": "",
+   "text": "世中は只今日のごと思ほえて哀昔になりや行くらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0069",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "これはおほんわざはてゝしが詣でしたりける歌",
+   "author": "",
+   "text": "加そぼちつゝ物思ふ人の行道は流るゝ水ぞ知べ也ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0070",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "其の年十二月若宮の御符桂を奉らせ給ふに",
+   "author": "",
+   "text": "o大大やや鹽の山の小松をば茂み千年の蔭となしてむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-asatada-0071",
+   "pid": "873676",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "kotobagaki": "たいふがもとより咯に出でゝ",
+   "author": "",
+   "text": "一諸諸に折るとはなしに打解て見えやしぬらむ極の花",
+   "sachu": "",
+   "jo": ""
+  }
+ ]
+}
